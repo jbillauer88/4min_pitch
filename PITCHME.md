@@ -1,88 +1,96 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
+---?image=template/img/pencils.jpg
+@title[Image Templates]
 
-<!--
-Tip! Get started with this template as follows:
-Step 1. Delete the contents of this PITCHME.md file.
-Step 2. Start adding your own custom slide content.
-Step 3. Copy slide markdown snippets from template/md directory as needed.
--->
+## @color[black](Image<br>Slide Templates)
 
-@snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
-@snapend
+@fa[arrow-down text-black]
 
-@snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
-@snapend
-
----
-@title[Slide Markdown]
-
-### Each slide in this presentation is provided as a *template*.
-
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
-
----
-@title[Tip! Fullscreen]
-
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
-
----?include=template/md/split-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/boxed-text/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
----?image=template/img/presenter.jpg
-@title[The Template Docs]
-
-@snap[west sign-off]
-### Now it's your turn.
-@snapend
-
-@snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
+@snap[south docslink span-50]
+[The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
 
 
-# My Best Work?
++++?image=template/img/headphones.jpg
+@title[Covered Background]
 
-# Jeremy Billauer
+@snap[west text-black span-15]
+**@size[1.2em](Where words fail, music speaks.)**
+@snapend
 
----
-
----
-
-?image=https://i2.wp.com/iam.jeremybillauer.com/wp-content/uploads/2018/03/DSC03578.jpg
-
-
-![Video](https://www.youtube.com/embed/irQ2yWXJ3aU)
+@snap[south-west template-note text-white]
+Covered background image template.
+@snapend
 
 
----
++++?image=template/img/dataflow.png&size=contain
+@title[Contained Background]
+
+@snap[south-west template-note text-gray]
+Contained background image template.
+@snapend
+
+
++++?image=template/img/batman.png&size=contain&color=linear-gradient(to right, #009fff, #ec2f4b)
+@title[Transparent Background]
+
+@snap[north-east text-white span-25]
+@quote[It's what I do that defines me.](Bruce Wayne)
+@snapend
+
+@snap[south-west template-note text-white]
+Transparent background with gradient template.
+@snapend
+
+@snap[south-east text-white]
+@size[0.3em](Lego Batman Clipart by Clipart.info is licensed under CC BY 4.0)
+@snapend
+
+
++++?image=template/img/geek.png&repeat=repeat-x&color=#F5DB2E&size=25% auto
+@title[Repeat Background]
+
+@snap[north-east text-black span-70]
+@quote[Beware of geeks bearing formulas.]
+@snapend
+
+@snap[south-west template-note text-black]
+Transparent background image-repeat template.
+@snapend
+
+
++++
+@title[Side-by-Side Images]
+
+@snap[west span-50]
+![SNOWMAN](template/img/snowman.gif)
+@snapend
+
+@snap[east span-50]
+![OLAF](template/img/olaf.png)
+@snapend
+
+@snap[south-west template-note text-gray]
+Side-by-side inline images template.
+@snapend
+
+
++++?image=template/img/geek.gif
+@title[GIF Background]
+
+@snap[north-east text-white]
+The Suave Geek
+@snapend
+
+@snap[south-east template-note text-white]
+Covered background animated GIF template.
+@snapend
+
+
++++?image=template/img/grass.png&position=bottom&size=100% 30%
+@title[Positioned Background]
+
+## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
+
+@snap[north-east template-note text-gray]
+Fixed position background image template.
+@snapend
