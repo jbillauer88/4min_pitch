@@ -4,14 +4,7 @@
 
 ---
 
-<h2 class="fragment">Hello, World!</h2>
+![Video](https://www.youtube.com/embed/irQ2yWXJ3aU)
+
 
 ---
-
-@snap[west]
-# Hello
-@snapend
-
-@snap[east fragment]
-# World!
-@snapend
