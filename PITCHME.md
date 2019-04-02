@@ -10,24 +10,7 @@
 @snapend
 
 
-+++?image=https://i2.wp.com/iam.jeremybillauer.com/wp-content/uploads/2018/03/DSC03578.jpg
-@title[Covered Background]
-
-@snap[west text-black span-15]
-**@size[1.2em](Where words fail, music speaks.)**
-@snapend
-
-@snap[south-west template-note text-white]
-Covered background image template.
-@snapend
-
-
-+++?image=template/img/dataflow.png&size=contain
-@title[Contained Background]
-
-@snap[south-west template-note text-gray]
-Contained background image template.
-@snapend
++++?image=https://i2.wp.com/iam.jeremybillauer.com/wp-content/uploads/2018/03/DSC03578.jpg&size=50%
 
 
 +++?image=https://i1.wp.com/iam.jeremybillauer.com/wp-content/uploads/2018/03/DSC03579.jpg&size=contain&color=linear-gradient(to right, #009fff, #ec2f4b)
