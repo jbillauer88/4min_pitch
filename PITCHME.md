@@ -1,5 +1,5 @@
----?image=template/img/pencils.jpg
-@title[Image Templates]
+<!-- ---?image=template/img/pencils.jpg -->
+@title[Best Work?]
 
 ## @color[black](Image<br>Slide Templates)
 
