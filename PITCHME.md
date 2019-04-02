@@ -10,7 +10,7 @@
 @snapend
 
 
-+++?image=template/img/headphones.jpg
++++?image=https://i2.wp.com/iam.jeremybillauer.com/wp-content/uploads/2018/03/DSC03578.jpg
 @title[Covered Background]
 
 @snap[west text-black span-15]
@@ -30,7 +30,7 @@ Contained background image template.
 @snapend
 
 
-+++?image=template/img/batman.png&size=contain&color=linear-gradient(to right, #009fff, #ec2f4b)
++++?image=https://i1.wp.com/iam.jeremybillauer.com/wp-content/uploads/2018/03/DSC03579.jpg&size=contain&color=linear-gradient(to right, #009fff, #ec2f4b)
 @title[Transparent Background]
 
 @snap[north-east text-white span-25]
