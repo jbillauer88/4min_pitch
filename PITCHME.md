@@ -1,7 +1,7 @@
 <!-- ---?image=template/img/pencils.jpg -->
 @title[Best Work?]
 
-## @color[black](Image<br>Slide Templates)
+## @color[black](Best Work?)
 
 @fa[arrow-down text-black]
 
